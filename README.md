@@ -1,5 +1,7 @@
 **To make this explicit** - this is **experimental** software. It has been released in this state as no one has yet come forward offering to actually help with the project. As such, this is released as a PoC **only**, as I'm busy rewriting NIST testing code to fit the various scenarios that affect this algorithm. (Also, why are there no C implementations of NIST tests? Bah...)
 
+Best case scenario - you can play with some unusual crypto. Worst case scenario, full compromise of your local system and significant data loss. YMMV.
+
 Hope this makes it clear for people... When this is ready for release, you'll have proper comments, and less latin.
 
 # Kaos
