@@ -23,6 +23,7 @@ This is the not the first of its kind - there is a lit review that I'm working o
 Very well. I'll put a full algo disclosure here, but there is an academic paper in the offing.
 
 TL;DR - the code implements a chaotic function, in the form of the known-chaotic Rule30 Elementary Cellular Automata (ECA). The use of a chaotic function is handy for the following reason - there are things you are guaranteed to have in chaotic functions. What these are and why there are important:
+
 1. Transitivity - 
  * A topology term, but in this case would imply that from any starting string you can (eventually) get to any other starting string. As such, the entropy of the system is as maximal as possible.
 1. The Periodic Points are dense - 
