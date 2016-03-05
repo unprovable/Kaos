@@ -1,3 +1,7 @@
+**To make this explicit** - this is **experimental** software. It has been released in this state as no one has yet come forward offering to actually help with the project. As such, this is released as a PoC **only**, as I'm busy rewriting NIST testing code to fit the various scenarios that affect this algorithm. (Also, why are there no C implementations of NIST tests? Bah...)
+
+Hope this makes it clear for people... When this is ready for release, you'll have proper comments, and less latin.
+
 # Kaos
 
 Proof of Concept Encryption/Decryption and Hashing algorithms. Provided with full source code and example binaries.
